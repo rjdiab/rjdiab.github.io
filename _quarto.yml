@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Raydon Diab"
+  navbar:
+    left:
+      - href: projects.qmd
+        text: Projects
+      - href: resume.qmd
+        text: Resume
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      
+    right:
+      - href: https://github.com/rjdiab
+        icon: github
+      - href: https://www.linkedin.com/in/raydon-diab/
+        icon: linkedin
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+
