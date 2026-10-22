@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Raydon Diab",
     "section": "",
-    "text": "This website is made in Quarto."
+    "text": "My name is Raydon Diab. I am a data science major, with a minor in AI engineering at Brigham Young University - Idaho. I graduate July 2028. I love problem solving. It is something that I pride myself on. I want to use my abilities and knowledge to create lasting change in the world. I mainly use Python and RStudio, though I have experience in SQL, Excel, Tableau and PowerBI. I am cuurently not looking for employment, though I am open to internship opportunites."
   },
   {
     "objectID": "about.html",
@@ -26,5 +26,19 @@
     "title": "Projects",
     "section": "",
     "text": "Home to all my amazing analyses and coding creations."
+  },
+  {
+    "objectID": "index.html#who-am-i",
+    "href": "index.html#who-am-i",
+    "title": "Raydon Diab",
+    "section": "",
+    "text": "My name is Raydon Diab. I am a data science major, with a minor in AI engineering at Brigham Young University - Idaho. I graduate July 2028. I love problem solving. It is something that I pride myself on. I want to use my abilities and knowledge to create lasting change in the world. I mainly use Python and RStudio, though I have experience in SQL, Excel, Tableau and PowerBI. I am cuurently not looking for employment, though I am open to internship opportunites."
+  },
+  {
+    "objectID": "index.html#what-are-my-skills",
+    "href": "index.html#what-are-my-skills",
+    "title": "Raydon Diab",
+    "section": "What are my Skills?",
+    "text": "What are my Skills?\n\nPython: data wrangling, data visualization, machine learning\nR: Tidyverse, data wrangling\nSQL: Database management\nPowerBI: Integration with PowerApps and PowerAutomate\n\nFeel free to look around my portfolio. I have worked hard to demonstrate my skills and hope that you consider me for any future positions."
   }
 ]
